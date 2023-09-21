@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erickamindanao!
 - 👩‍💻: I have knowledge of computer programming, especially on HTML, CSS, Python, and JavaScript.
 - 🌱 I’m currently learning XML.
-- 🤝🏻 I am able to work effectively and efficienty. 
+- 🤝🏻 I am able to work effectively and efficiently. 
 - 📫 To know more about my details, you can send me a message at erickamindanao@gmail.com
 <!---
 erickamindanao/erickamindanao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
