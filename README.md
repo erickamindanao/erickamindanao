@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erickamindanao!
-- 👩‍💻: I have knowledge of computer programming, especially on HTML, CSS, Python, and JavaScript.
+- 👩‍💻 I have knowledge of computer programming, especially on HTML, CSS, Python, and JavaScript.
 - 🌱 I’m currently learning XML.
 - 🤝🏻 I am able to work effectively and efficiently. 
 - 📫 To know more about my details, you can send me a message at erickamindanao@gmail.com
